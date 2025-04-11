@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
     s.license      = { :type => "Copyright", :text => "Copyright (c) 2015 BaiduLBS" }
     s.authors      = { "baidu map sdk" => "dituapi_01@163.com" }
     s.platform     = :ios, "7.0"
-    s.source       = { :http => "https://github.com/BaiduLBS/BaiduMapKit.git" }
+    s.source       = { :http => "https://github.com/BaiduLBS/BaiduMapKit/archive/refs/tags/5.3.0.tar.gz" }
     
     s.resources    = "BaiduMapKit/*.framework/*.bundle"
     s.vendored_frameworks = "BaiduMapKit/*.framework"
