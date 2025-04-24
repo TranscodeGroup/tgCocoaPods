@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   
     s.platform     = :ios, "7.0"
   
-    s.source       = { :http => "https://github.com/limingnie/ios-pod-source/archive/refs/tags/v5.5.0.zip" }
+    s.source       = { :http => "https://github.com/user-attachments/files/19885082/JPush-iOS-5.5.0.zip" }
     s.vendored_frameworks = "*.xcframework"
   
     s.frameworks = [

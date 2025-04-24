@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
     s.license          = { :type => 'Copyright', :text => 'Copyright jpush.cn' }
     s.author           = { 'JPush' => 'support@jpush.cn' }
     s.platform         = :ios, '7.0'
-    s.source           = { :http => 'https://github.com/limingnie/ios-pod-source/archive/refs/tags/v4.9.0.zip' }
+    s.source           = { :http => 'https://github.com/user-attachments/files/19880955/JCore-iOS-4.9.0.zip' }
     
     s.vendored_frameworks = '*.xcframework'
     
